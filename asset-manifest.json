@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/curdfire/static/css/main.76fbcb06.chunk.css",
+    "main.js": "/curdfire/static/js/main.59bc2a8f.chunk.js",
+    "main.js.map": "/curdfire/static/js/main.59bc2a8f.chunk.js.map",
+    "runtime-main.js": "/curdfire/static/js/runtime-main.df6cdbf9.js",
+    "runtime-main.js.map": "/curdfire/static/js/runtime-main.df6cdbf9.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/curdfire/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.60d16842.chunk.js": "/curdfire/static/js/2.60d16842.chunk.js",
+    "static/js/2.60d16842.chunk.js.map": "/curdfire/static/js/2.60d16842.chunk.js.map",
+    "index.html": "/curdfire/index.html",
+    "precache-manifest.e0fb69cb6934a6c5b7ac8db61a462d4e.js": "/curdfire/precache-manifest.e0fb69cb6934a6c5b7ac8db61a462d4e.js",
+    "service-worker.js": "/curdfire/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/curdfire/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.76fbcb06.chunk.css.map": "/curdfire/static/css/main.76fbcb06.chunk.css.map",
+    "static/js/2.60d16842.chunk.js.LICENSE.txt": "/curdfire/static/js/2.60d16842.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df6cdbf9.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.60d16842.chunk.js",
+    "static/css/main.76fbcb06.chunk.css",
+    "static/js/main.59bc2a8f.chunk.js"
+  ]
+}
