@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/curdfire/precache-manifest.e0fb69cb6934a6c5b7ac8db61a462d4e.js"
+  "/curdfire/precache-manifest.533d8a757c12e0904f90b0d114ffb8e6.js"
 );
 
 self.addEventListener('message', (event) => {

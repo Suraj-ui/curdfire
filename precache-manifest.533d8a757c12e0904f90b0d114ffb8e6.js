@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b390fc7553583d11beed12dca2bcde9",
+    "revision": "c1f956838f5a32afb0c27318be52e002",
     "url": "/curdfire/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curdfire/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "5ecac8352bb949516ae7",
+    "revision": "d412123e1e65154f7925",
     "url": "/curdfire/static/css/main.76fbcb06.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curdfire/static/js/2.60d16842.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ecac8352bb949516ae7",
-    "url": "/curdfire/static/js/main.59bc2a8f.chunk.js"
+    "revision": "d412123e1e65154f7925",
+    "url": "/curdfire/static/js/main.690c0a75.chunk.js"
   },
   {
     "revision": "caa6dfb6dc59e5927c45",
